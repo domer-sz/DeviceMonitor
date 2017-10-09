@@ -1,0 +1,33 @@
+{
+  "properties": [
+    {
+      "name": "device.log.analyzer.on",
+      "type": "java.lang.Boolean",
+      "description": "Description for device.log.analyzer.on."
+    },
+    {
+      "name": "device.log.analyzer.rate.in.milliseconds",
+      "type": "java.lang.Integer",
+      "description": "Description for device.log.analyzer.rate.in.milliseconds."
+    },
+    {
+      "name": "number.of.cycles.to.alert",
+      "type": "java.lang.Integer",
+      "description": "Description for number.of.cycles.to.alert."
+    },
+    {
+      "name": "device.log.warning.port",
+      "type": "java.lang.String",
+      "description": "Description for device.log.warning.port."
+    },
+    {
+      "name": "device.log.overview.port",
+      "type": "java.lang.String",
+      "description": "Description for device.log.overview.port."
+    },
+    {
+      "name": "device.log.time.on.port",
+      "type": "java.lang.String",
+      "description": "Description for device.log.time.on.port."
+    }
+  ] }
